@@ -23,6 +23,8 @@ Descriptive Summary: Insights into brand pricing strategies and consumer prefere
 Dashboard Visualizations:
 
 Overview and Market Trends Dashboard: Interactive dashboards highlight key metrics like average resale price, sales volume, and trends in brand popularity, silhouette preferences, and color choices.
+
+
 Predictive Models:
 
 Models Used: The project features predictive models such as Linear Regression and Gradient Boosting, detailing their training, testing, and effectiveness in predicting sneaker prices.
